@@ -3,6 +3,6 @@ terraform {
     bucket = "adeyinka"
     key = "main"
     region = "us-east-1"
-    dynamodb_table = "my-dynamo-table"
+    dynamodb_table = "dynamodb-table"
   }
 }
